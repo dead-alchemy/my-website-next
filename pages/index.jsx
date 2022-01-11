@@ -14,11 +14,11 @@ export default function Home() {
 			</Head>
 			<main>
 				<div>
-					<h2>The Personal Site of David Nicholas</h2>
-					<p>
+					<h1>The Personal Site of David Nicholas</h1>
+					<h2>
 						Hello and welcome! This is a little site I built for my
 						blog, about me, portfolio, and how to get a hold of me.
-					</p>
+					</h2>
 				</div>
 
 				<div>

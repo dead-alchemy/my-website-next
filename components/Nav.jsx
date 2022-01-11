@@ -15,7 +15,7 @@ const Nav = () => {
 		<nav className={styles["nav__main"]}>
 			<div className={styles["nav__header"]}>D. Nicholas</div>
 			<div className={styles["cheveron"]} onClick={buttonClick}>
-				<img src="/menu.svg" alt="Menu" />
+				<img src="/icons/menu.svg" alt="Menu" />
 			</div>
 			<div
 				className={`${styles["nav__options"]} ${
