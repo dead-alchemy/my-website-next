@@ -1,18 +1,18 @@
 @import "../styles/colors.scss";
 
 .nav__main {
-	padding: 0.5rem 1.5rem;
 	background-color: $color-3-2;
 	display: flex;
 	align-items: center;
+	padding: 0 1rem;
 	justify-content: space-between;
-
+	height: 3rem;
 	color: $color-0-2;
 }
 
 .nav__options {
 	position: fixed;
-	top: 2rem;
+	top: 3rem;
 	right: 0;
 	background-color: $color-3-2;
 	opacity: 0.95;
@@ -48,7 +48,7 @@
 		display: flex;
 		align-items: center;
 		justify-content: inherit;
-
+		height: 3rem;
 		color: $color-0-2;
 	}
 
