@@ -21,14 +21,15 @@ export default function Home() {
 					</h2>
 				</div>
 
-				<div>
+				<div className={styles["contact__info"]}>
 					<p>
-						<a href="https://www.twitch.tv/dead_alchemy">Twitch</a>
+						<a href="https://twitter.com/dlonicholas">
+							<img src="/icons/twitter.svg" alt="Twitter Logo" />
+							Twitter
+						</a>
 					</p>
 					<p>
-						<a href="https://twitter.com/dlonicholas">Twitter</a>
-					</p>
-					<p>
+						<img src="/icons/github.svg" alt="Github Logo" />
 						<a href="https://github.com/dead-alchemy">Git-Hub</a>
 					</p>
 				</div>
