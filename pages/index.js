@@ -12,7 +12,6 @@ export default function Home() {
 					content="The personal website of David Nicholas"
 				/>
 			</Head>
-			<Nav />
 			<main>
 				<h1>My Website</h1>
 
