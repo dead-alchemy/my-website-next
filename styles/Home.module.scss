@@ -1,9 +1,9 @@
 @import "./colors.scss";
 
 .main {
-	background-color: $color-0-2;
 	height: calc(100% - 3rem);
 	padding: 1rem;
+	margin: 0 2rem;
 }
 
 .contact__info {
@@ -17,5 +17,6 @@
 @media screen and (min-width: 750px) {
 	.main {
 		padding: 1rem 4rem;
+		margin: 0 10%;
 	}
 }
